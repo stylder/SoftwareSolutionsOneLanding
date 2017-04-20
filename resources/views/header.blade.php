@@ -13,7 +13,7 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-                    <h1><a class="navbar-brand scroll" href="#intro">Prestige</a></h1>
+                    <h1><a class="navbar-brand scroll" href="#intro">Prestig</a></h1>
                 </div>
                 <div class="navbar-collapse collapse">
                     <ul class="nav navbar-nav pull-right">
