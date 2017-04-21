@@ -19,3 +19,10 @@
     display: none !important;
 }
 
+.children-with-img {
+    position: absolute;
+
+    left:50%;
+    top:30%;
+    transform:translate(-50%);
+}
