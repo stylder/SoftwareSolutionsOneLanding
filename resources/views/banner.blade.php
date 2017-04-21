@@ -8,13 +8,8 @@
             <img src="images/logo/logo.svg" class="img-responsive img-center-vertical-horizontal">
         </div>
 
-        <div id="output" class="">
-
-
-
-        </div>
-        <div id="controls" class="controls">
-        </div>
+        <div id="output" class=""></div>
+        <div id="controls" class="controls"></div>
 
         <ul  class="">
             <br>
@@ -41,5 +36,4 @@
         </ul>
 
     </div>
-
 </div>

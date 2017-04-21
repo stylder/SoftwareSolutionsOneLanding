@@ -1,17 +1,7 @@
-@import url(http://fonts.googleapis.com/css?family=Gabriela|Dosis:200);
-
-
-
-
-
-.overlay {
-
-
-}
+.overlay {}
 
 .container {
     position: relative;
-
 }
 
 
@@ -21,7 +11,6 @@
 
 .children-with-img {
     position: absolute;
-
     left:50%;
     top:30%;
     transform:translate(-50%);
