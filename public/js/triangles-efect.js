@@ -1712,6 +1712,14 @@ else if(c instanceof n)g.bind(d,"click",function(){g.fakeEvent(c.__button,"click
         addControls();
         resize(container.offsetWidth, container.offsetHeight);
         animate();
+        borrarUL();
+    }
+    
+    function borrarUL() {
+        var lis = document.querySelectorAll('#container ul');
+        for(var i=0; li=lis[i]; i++) {
+            li.parentNode.removeChild(li);
+        }
     }
 
     function createRenderer() {
