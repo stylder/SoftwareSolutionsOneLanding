@@ -16,6 +16,7 @@
 <script src="{{asset('js/jqBootstrapValidation.js')}}" defer="defer"></script>
 <script src="{{asset('js/custom.js')}}"></script>
 
+<script src="{{asset('js/triangles-efect.js')}}"></script>
 
 <script>
 

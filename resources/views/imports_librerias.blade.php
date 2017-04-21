@@ -8,6 +8,9 @@
 <!-- Font Awesome -->
 <link href="{{asset('css/font-awesome.min.css')}}" rel="stylesheet">
 
+<!-- Triangles Efect -->
+<link href="{{asset('css/triangles-efect.css')}}" rel="stylesheet">
+
 <link href="http://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
 <link href="http://fonts.googleapis.com/css?family=Open+Sans:400,300,700" rel="stylesheet" type="text/css">
 
